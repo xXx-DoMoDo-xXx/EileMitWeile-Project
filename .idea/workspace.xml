@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Business/Board/Board.java" line="28" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06e88d48-060d-4429-b5b2-6aa40fd5ff62" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Presentation/InOutput/IO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Business/Player/Piece.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Business/Player/Dice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fields</find>
+      <find>field</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Presentation/information-mvc" />
+        <option value="$PROJECT_DIR$/src/Game/Controller.java" />
+        <option value="$PROJECT_DIR$/src/Game/Board.java" />
+        <option value="$PROJECT_DIR$/src/Game/Output.java" />
+        <option value="$PROJECT_DIR$/src/Game/Input.java" />
+        <option value="$PROJECT_DIR$/src/Game/IO.java" />
+        <option value="$PROJECT_DIR$/src/Game/Dice.java" />
+        <option value="$PROJECT_DIR$/src/Game/Player.java" />
+        <option value="$PROJECT_DIR$/src/Game/Piece.java" />
+        <option value="$PROJECT_DIR$/src/Game/Board/Field.java" />
+        <option value="$PROJECT_DIR$/src/Game/Board/Home.java" />
+        <option value="$PROJECT_DIR$/src/Game/Board/Stair.java" />
+        <option value="$PROJECT_DIR$/src/Game/Board/Heaven.java" />
+        <option value="$PROJECT_DIR$/src/Game/Board/Board.java" />
+        <option value="$PROJECT_DIR$/src/Game/Player/Piece.java" />
+        <option value="$PROJECT_DIR$/src/Game/Player/Player.java" />
+        <option value="$PROJECT_DIR$/src/Game/Player/Dice.java" />
+        <option value="$PROJECT_DIR$/src/Game/Main.java" />
+        <option value="$PROJECT_DIR$/src/Game/EileMitWeile.java" />
+        <option value="$PROJECT_DIR$/src/Game/InOutput/IO.java" />
+        <option value="$PROJECT_DIR$/src/Game/Business/Player/Player.java" />
+        <option value="$PROJECT_DIR$/src/Game/Business/Game/EileMitWeile.java" />
+        <option value="$PROJECT_DIR$/src/Game/Presentation/InOutput/IO.java" />
+        <option value="$PROJECT_DIR$/src/Business/Board/Home.java" />
+        <option value="$PROJECT_DIR$/test/Business/Game/EileMitWeileTest.java" />
+        <option value="$PROJECT_DIR$/test/Business/Player/PlayerTest.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Presentation/InOutput/IO.java" />
+        <option value="$PROJECT_DIR$/src/Business/Player/Piece.java" />
+        <option value="$PROJECT_DIR$/src/Business/Player/Player.java" />
+        <option value="$PROJECT_DIR$/src/Business/Player/Dice.java" />
+        <option value="$PROJECT_DIR$/src/Business/Board/Stair.java" />
+        <option value="$PROJECT_DIR$/src/Business/Board/Heaven.java" />
+        <option value="$PROJECT_DIR$/src/Business/Board/Field.java" />
+        <option value="$PROJECT_DIR$/src/Business/Game/EileMitWeile.java" />
+        <option value="$PROJECT_DIR$/src/Business/Board/Board.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1892" />
+    <option name="y" value="10" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eilemitweile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eilemitweile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eilemitweile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eilemitweile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eilemitweile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eilemitweile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Business" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eilemitweile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eilemitweile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Business" type="462c0819:PsiDirectoryNode" />
+              <item name="Board" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eilemitweile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eilemitweile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Business" type="462c0819:PsiDirectoryNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eilemitweile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eilemitweile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Business" type="462c0819:PsiDirectoryNode" />
+              <item name="Player" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eilemitweile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eilemitweile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Presentation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eilemitweile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eilemitweile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Presentation" type="462c0819:PsiDirectoryNode" />
+              <item name="InOutput" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eilemitweile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eilemitweile" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eilemitweile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eilemitweile" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eilemitweile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eilemitweile" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Business" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eilemitweile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eilemitweile" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Business" type="462c0819:PsiDirectoryNode" />
+              <item name="Player" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eilemitweile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="eilemitweile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="JUnit5.3" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560859766363" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="C:/Program Files/SceneBuilder/app/SceneBuilder.cfg" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Business.Player" />
+      <recent name="Business.Game" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\github\eilemitweile\SceneBuilder_dev" />
+      <recent name="C:\dev\github\eilemitweile\src\Game" />
+      <recent name="C:\dev\github\eilemitweile\pictures" />
+      <recent name="C:\dev\github\eilemitweile\SceneBuilder_dev\archiv" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in eilemitweile">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="eilemitweile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in eilemitweile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eilemitweile" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerTest.createHomeFieldsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eilemitweile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Business.Player.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Business.Player" />
+      <option name="MAIN_CLASS_NAME" value="Business.Player.PlayerTest" />
+      <option name="METHOD_NAME" value="createHomeFieldsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerTest.leaveHomeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eilemitweile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Business.Player.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Business.Player" />
+      <option name="MAIN_CLASS_NAME" value="Business.Player.PlayerTest" />
+      <option name="METHOD_NAME" value="leaveHomeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerTest.movePieceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eilemitweile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Business.Player.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Business.Player" />
+      <option name="MAIN_CLASS_NAME" value="Business.Player.PlayerTest" />
+      <option name="METHOD_NAME" value="movePieceTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in eilemitweile" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.PlayerTest.movePieceTest" />
+        <item itemvalue="JUnit.PlayerTest.leaveHomeTest" />
+        <item itemvalue="JUnit.PlayerTest.createHomeFieldsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06e88d48-060d-4429-b5b2-6aa40fd5ff62" name="Default Changelist" comment="" />
+      <created>1557397075961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557397075961</updated>
+      <workItem from="1557397078534" duration="357000" />
+      <workItem from="1557499473960" duration="291000" />
+      <workItem from="1557851311613" duration="33000" />
+      <workItem from="1558557020080" duration="49000" />
+      <workItem from="1558557886493" duration="2365000" />
+      <workItem from="1558604567062" duration="803000" />
+      <workItem from="1559059631863" duration="1432000" />
+      <workItem from="1559067449956" duration="3218000" />
+      <workItem from="1559246478084" duration="2092000" />
+      <workItem from="1559499971277" duration="5056000" />
+      <workItem from="1559670097180" duration="2385000" />
+      <workItem from="1559722432693" duration="1283000" />
+      <workItem from="1559726534055" duration="5916000" />
+      <workItem from="1559896372822" duration="736000" />
+      <workItem from="1560247026995" duration="757000" />
+      <workItem from="1560250993979" duration="10546000" />
+      <workItem from="1560326408091" duration="6169000" />
+      <workItem from="1560510273038" duration="12884000" />
+      <workItem from="1560755627573" duration="594000" />
+      <workItem from="1560760816517" duration="1765000" />
+      <workItem from="1560767415071" duration="4156000" />
+      <workItem from="1560778351184" duration="5364000" />
+      <workItem from="1560783839372" duration="1323000" />
+      <workItem from="1560839949103" duration="10564000" />
+      <workItem from="1560859807763" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PlayerTest_movePieceTest - 2019.06.18 at 12h 11m 10s.xml">
+      <configuration name="PlayerTest.movePieceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerTest_movePieceTest - 2019.06.18 at 12h 11m 29s.xml">
+      <configuration name="PlayerTest.movePieceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerTest_movePieceTest - 2019.06.18 at 12h 11m 44s.xml">
+      <configuration name="PlayerTest.movePieceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerTest_movePieceTest - 2019.06.18 at 12h 12m 50s.xml">
+      <configuration name="PlayerTest.movePieceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerTest_movePieceTest - 2019.06.18 at 12h 13m 08s.xml">
+      <configuration name="PlayerTest.movePieceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerTest_movePieceTest - 2019.06.18 at 12h 14m 37s.xml">
+      <configuration name="PlayerTest.movePieceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerTest_movePieceTest - 2019.06.18 at 12h 14m 38s.xml">
+      <configuration name="PlayerTest.movePieceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_eilemitweile - 2019.06.18 at 12h 14m 44s.xml">
+      <configuration name="All in eilemitweile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_eilemitweile - 2019.06.18 at 12h 15m 19s.xml">
+      <configuration name="All in eilemitweile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_eilemitweile - 2019.06.18 at 12h 58m 17s.xml">
+      <configuration name="All in eilemitweile" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="88163000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991511" visible="true" weight="0.22814499" />
+      <window_info id="Structure" order="1" sideWeight="0.5008489" side_tool="true" weight="0.2260128" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3618635" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.30552545" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32719395" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Persistence/placeholder.txt" />
+    <entry file="file://$PROJECT_DIR$/src/module-info.java" />
+    <entry file="file://$PROJECT_DIR$/SceneBuilder_dev/finish.fxml" />
+    <entry file="jar://$PATH_TO_FX$/javafx.graphics.jar!/javafx/stage/Stage.class" />
+    <entry file="file://$PROJECT_DIR$/pictures/EileMitWeile_ohne_Text.png" />
+    <entry file="jar://C:/dev-tools/jdk-11.0.1/lib/src.zip!/java.base/java/util/Scanner.java" />
+    <entry file="file://$PROJECT_DIR$/SceneBuilder_dev/welcome.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/Presentation/information-mvc" />
+    <entry file="file://$PROJECT_DIR$/src/Game/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/Game/Board.java" />
+    <entry file="file://$PROJECT_DIR$/src/Game/field.java" />
+    <entry file="file://$PROJECT_DIR$/src/Game/Board/Fields.java" />
+    <entry file="file://$PROJECT_DIR$/src/Game/home.java" />
+    <entry file="jar://C:/dev-tools/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="29" column="64" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/dev-tools/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="511" selection-start-line="511" selection-end-line="511" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Output.java" />
+    <entry file="file://$PROJECT_DIR$/pictures/Eile-mit-weile.svg" />
+    <entry file="file://$PROJECT_DIR$/src/Game/überlegung eile mit weile" />
+    <entry file="jar://C:/dev-tools/jdk-11.0.1/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="558" selection-start-line="558" selection-end-line="558" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Business/Game/EileMitWeileTest.java" />
+    <entry file="file://$PROJECT_DIR$/test/Business/Player/PlayerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Business/Board/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Business/Board/Stair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Business/Game/EileMitWeile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Business/Player/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="61" column="41" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1838#1839#0" expanded="true" />
+            <element signature="e#1863#1864#0" expanded="true" />
+            <element signature="e#2021#2022#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Business/Board/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Business/Board/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/dev-tools/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
+          <folding>
+            <element signature="e#10225#10226#0" expanded="true" />
+            <element signature="e#10308#10309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Business/Board/Heaven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Presentation/InOutput/IO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Business/Player/Piece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Business/Player/Dice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javafx11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>eilemitweile</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
